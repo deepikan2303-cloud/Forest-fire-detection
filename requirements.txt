@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision>=0.16
+opencv-python>=4.8
+numpy>=1.24
+matplotlib>=3.7
+# Optional: ONNX export / runtime
+# onnx>=1.15
+# onnxruntime>=1.16
